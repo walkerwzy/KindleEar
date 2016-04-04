@@ -41,8 +41,7 @@ config.py          | DOMAIN      | 你申请的应用的域名        |
 8. 执行两条Cmd命令：  
 	* `c:\python27\python.exe appcfg.py update kindleear目录\app.yaml kindleear目录\module-worker.yaml`  
 	* `c:\python27\python.exe appcfg.py update kindleear目录`
-
-8.1 如果是通过shell远程ssh部署, 请访问[这篇文章](http://www.cnblogs.com/walkerwang/p/5352778.html)
+	* 如果是通过shell远程ssh部署, 请访问[这篇文章](http://www.cnblogs.com/walkerwang/p/5352778.html)
 
 9. 全部完成后就可以尝试打开域名：  
 *http://appid.appspot.com*  (appid是你申请的application名字)  
